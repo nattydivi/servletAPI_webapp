@@ -17,3 +17,4 @@ Web приложение с использованием servlet, filter, listen
 
 login: natty <br>
 password: 111
+![screenshot](https://github.com/nattydivi/servletAPI_webapp/blob/master/src/main/webapp/images/show.png)
