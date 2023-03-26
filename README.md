@@ -16,5 +16,5 @@ Web приложение с использованием servlet, filter, listen
 /booksJsp <br>
 
 login: natty <br>
-password: 111
+password: 111 <br>
 ![screenshot](https://github.com/nattydivi/servletAPI_webapp/blob/master/src/main/webapp/images/show.png)
